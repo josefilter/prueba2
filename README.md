@@ -1,3 +1,3 @@
 # Archivo de documentación
 
-documentación realizada por mi
+documentación realizada por Dios
