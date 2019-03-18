@@ -1,0 +1,2 @@
+# Archivo de documentación
+
